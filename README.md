@@ -1,6 +1,6 @@
 ## Hi, I'm Dae Yun 👋
 
-I am an **MRes student and developer** working at the intersection of **Health Sciences** and **Data Science**. My focus is on Qualitative Evidence Synthesis (QES) and developing open tools to enhance research transparency and reproducibility.
+I am an **MRes student and developer** working at the intersection of **Health Sciences** and **Data Science**. My focus is on Evidence Synthesis and developing open tools to enhance research transparency and reproducibility.
 
 ### 🎓 Background
 - **MRes Health Research Student** | University of Stirling
